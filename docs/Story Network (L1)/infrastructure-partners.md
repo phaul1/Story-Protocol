@@ -22,7 +22,7 @@ metadata:
   </Card>
 
   <Card title="deBridge" href="https://debridge.finance/" icon="fa-home" iconColor="#fbff3a" target="_blank">
-    Blazingly fast bridging for anyone that likes to be one step ahead.
+    Blazingly fast bridging for anyone who likes to be one step ahead.
   </Card>
 
   <Card title="Stargate" href="https://stargate.finance/" icon="fa-home" iconColor="#ffffff" target="_blank">
@@ -46,7 +46,7 @@ metadata:
 
 <Cards columns={3}>
   <Card title="Simplehash" href="https://simplehash.com/" icon="fa-home" iconColor="#5046e5" target="_blank">
-    Instant access to Token and NFT market prices, metadata and media. 80+ chains.
+    Instant access to Token and NFT market prices, metadata, and media. 80+ chains.
   </Card>
 
   <Card title="Goldsky" href="https://goldsky.com/" icon="fa-home" iconColor="#ffbf60" target="_blank">
@@ -54,7 +54,7 @@ metadata:
   </Card>
 
   <Card title="Zettablock" href="https://zettablock.com/" icon="fa-home" iconColor="#3c4ff6" target="_blank">
-    A unified platform for open and trustfree AI development, empowering an accessible ecosystem of models and datasets.
+    A unified platform for open and trust-free AI development, empowering an accessible ecosystem of models and datasets.
   </Card>
 </Cards>
 
@@ -94,7 +94,7 @@ metadata:
 
 <Cards columns={3}>
   <Card title="Dynamic" href="https://www.dynamic.xyz/" icon="fa-home" iconColor="#4779ff" target="_blank">
-    Dynamic offers a suite of tools for effortless log in, wallet creation and user management. Designed for users. Built for developers.
+    Dynamic offers a suite of tools for effortless login, wallet creation, and user management. Designed for users. Built for developers.
   </Card>
 
   <Card title="Pimlico" href="https://www.pimlico.io/" icon="fa-home" iconColor="#7115aa" target="_blank">
@@ -106,7 +106,7 @@ metadata:
   </Card>
 
   <Card title="Tomo" href="https://tomo.inc/" icon="fa-home" iconColor="#f21f7f" target="_blank">
-    The all-in-one wallet designed to bring the mass adoption.
+    The all-in-one wallet is designed to bring mass adoption.
   </Card>
 
   <Card title="Privy" href="https://www.privy.io/" icon="fa-home" iconColor="#000000" target="_blank">
